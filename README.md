@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-16 19:14:57
- * @LastEditTime: 2019-12-17 11:12:34
+ * @LastEditTime: 2019-12-17 11:36:46
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \calculator2.1.0\one-1\README.md
@@ -35,7 +35,7 @@
 ### 具体页面
 
 
-![简单计算器的具体页面](具体页面.png)
+![简单计算器的具体页面](/具体页面.png)
 
 
 ### 使用说明
@@ -79,7 +79,7 @@
 
 \# 程序员型的计算处理过程是在programmer_page中实现的。
 
-download:
+### download:
 
 &#8195;&#8195;&#8195;&#8195;[download-zip](https://github.com/Gemini128663/calculator2.1.0
 )
