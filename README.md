@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-16 19:14:57
- * @LastEditTime: 2019-12-17 10:30:22
+ * @LastEditTime: 2019-12-17 10:55:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \calculator2.1.0\one-1\README.md
@@ -77,5 +77,6 @@
 
 download:
 
-&#8195;&#8195;&#8195;&#8195;[download-zip](www.baidu.com)
+&#8195;&#8195;&#8195;&#8195;[download-zip](https://github.com/Gemini128663/calculator2.1.0
+)
 
