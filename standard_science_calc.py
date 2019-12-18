@@ -1,11 +1,3 @@
-"""
-@Author: _chang_an
-@Date: 2019-12-11 17:05:41
-@LastEditTime: 2019-12-16 15:11:56
-@LastEditors: your name
-@Description: In User Settings Edit
-@FilePath: \calculator2.1.0\standard_science_calc.py
-"""
 import math
 
 
@@ -18,7 +10,7 @@ def standard_science_calc(event, text):
     
     Returns:
         [str] -- [计算后需要显示的文本]
-    """ 
+    """
     if event.widget["text"] in (
         "0",
         "1",

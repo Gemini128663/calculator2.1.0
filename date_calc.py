@@ -1,11 +1,3 @@
-"""
-@Author: _chang_an
-@Date: 2019-12-11 17:05:41
-@LastEditTime: 2019-12-16 14:51:36
-@LastEditors: _chang_an
-@Description: 日期计算过程的实现
-@FilePath: \calculator2.1.0\calc_one.py
-"""
 import datetime
 import time
 

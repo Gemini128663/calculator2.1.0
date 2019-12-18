@@ -1,11 +1,3 @@
-"""
-@Author: _chang_an
-@Date: 2019-12-12 09:07:53
-@LastEditTime: 2019-12-16 15:22:06
-@LastEditors: Please set LastEditors
-@Description: 程序员型页面的实现
-@FilePath: \calculator2.1.0\programmer_page.py
-"""
 from tkinter import *
 from button_name import button_name
 
@@ -127,7 +119,7 @@ class Programmer(Frame):
         
         Arguments:
             event {['tkinter.Event']} -- [点击事件]
-        """        
+        """
         self.show["text"] = ""
         try:
             self.show1["text"] = ""

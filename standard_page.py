@@ -1,12 +1,11 @@
 """
-@Author: _chang_an
-@Date: 2019-12-13 18:49:37
-@LastEditTime: 2019-12-16 15:16:24
-@LastEditors: Please set LastEditors
-@Description: 标注型页面的实现
+@Author: your name
+@Date: 2019-12-17 10:52:10
+@LastEditTime: 2019-12-18 10:36:24
+@LastEditors: your name
+@Description: In User Settings Edit
 @FilePath: \calculator2.1.0\standard_page.py
 """
-
 from tkinter import *
 from standard_science_calc import standard_science_calc
 from button_name import button_name
@@ -98,6 +97,6 @@ class StandardFrame(Frame):
         
         Arguments:
             event {[type]} -- [description]
-        """        
+        """
         print
         self.show["text"] = ("",)

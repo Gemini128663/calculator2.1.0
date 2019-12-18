@@ -1,12 +1,3 @@
-"""
-@Author: your name
-@Date: 2019-12-11 19:14:19
-@LastEditTime: 2019-12-16 15:27:16
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \calculator2.1.0\science_page.py
-"""
-
 from tkinter import *
 from standard_science_calc import standard_science_calc
 from button_name import button_name

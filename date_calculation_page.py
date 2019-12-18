@@ -1,12 +1,11 @@
 """
-@Author: _chang_an
-@Date: 2019-12-12 09:35:52
-@LastEditTime: 2019-12-16 15:08:05
-@LastEditors: _chang_an
-@Description: 日期计算页面的实现
+@Author: your name
+@Date: 2019-12-17 10:52:10
+@LastEditTime: 2019-12-18 10:36:04
+@LastEditors: your name
+@Description: In User Settings Edit
 @FilePath: \calculator2.1.0\date_calculation_page.py
 """
-
 from tkinter import *
 from date_calc import date_calculation_click
 from standard_science_calc import standard_science_calc
@@ -21,14 +20,14 @@ class dateFrame(Frame):
         
         Keyword Arguments:
             master {['tkinter.Frame']} -- [页面] (default: {None})
-        """        
-        Frame.__init__(self, master)     
+        """
+        Frame.__init__(self, master)
         self.root = master  # 定义内部变量root
 
         self.datepage()
 
     def datepage(self):
-                
+
         """设置显示组件的字体，宽度，背景，方位以及位置
 
         设置文本标签的方位和位置
@@ -80,7 +79,7 @@ class dateFrame(Frame):
         
         Arguments:
             event {['tkinter.Event']} -- [点击事件]
-        """        
+        """
         """显示组件计算函数"""
         if event.widget["text"] == "=" and self.show["text"] is not None:
             self.show["text"] = date_calculation_click(event, self.show["text"])
@@ -92,5 +91,5 @@ class dateFrame(Frame):
 
         Arguments:
             event {['tkinter.Event']} -- [点击事件]
-        """        
+        """
         self.show["text"] = ""

@@ -1,11 +1,3 @@
-"""
-@Author: _chang_an
-@Date: 2019-12-11 18:30:38
-@LastEditTime: 2019-12-16 14:54:46
-@LastEditors: _chang_an
-@Description: 计算器各个页面的初始化以及菜单栏的绑定函数
-@FilePath: \calculator2.1.0\calc_page.py
-"""
 from standard_page import *
 from science_page import *
 from programmer_page import *
@@ -13,20 +5,17 @@ from date_calculation_page import *
 
 
 class CalcPage(object):
-     
-   
-
     def __init__(self, master=None):
         """[初始化页面]
         
         Keyword Arguments:
             master {['tkinter.Frame']} -- [页面] (default: {None})
-        """        
-        
+        """
+
         self.root = master  # 定义内部变量root
         self.main_page()  # 设置主页面
 
-    def main_page(self):       
+    def main_page(self):
         """创建四个不同的Frame（标准型，科学型，日期计算，程序员）
 
         设置默认页面
