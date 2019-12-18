@@ -59,9 +59,9 @@
 
 ## 文件对应说明
 
-1. calculator/main：主函数，只需运行这个文件就可以。
+1. calculator/main：主函数，只需运行这个文件就可以。  
 
-2. calculator/calculator_page：用来初始化四个菜单的文件。
+2. calculator/calculation/calculator_page：用来初始化四个菜单的文件。
 
 3. calculator/standard_page：标准型页面的具体内容。
 
