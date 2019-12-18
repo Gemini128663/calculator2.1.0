@@ -6,7 +6,7 @@
  # @FilePath: \calculator2.1.0\programmer_page.py
 """
 from tkinter import *
-from button_names import button_name
+from pages.button_names import button_name
 
 
 class Programmer(Frame):

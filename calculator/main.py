@@ -1,4 +1,3 @@
-
 """
 @Author: chang_an
 @Date: 2019-12-11 18:28:01
@@ -14,8 +13,8 @@
 
 
 from tkinter import *
-from calculator_page import *
-from standard_page import *
+from pages.calculator_page import *
+from pages.standard_page import *
 
 root = Tk()
 root.title("简单计算器")

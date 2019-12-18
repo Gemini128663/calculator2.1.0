@@ -7,10 +7,10 @@
 """
 
 
-from standard_page import *
-from science_page import *
-from programmer_page import *
-from calculator_date_page import *
+from pages.standard_page import *
+from pages.science_page import *
+from pages.programmer_page import *
+from pages.calculator_date_page import *
 
 
 class CalcPage(object):

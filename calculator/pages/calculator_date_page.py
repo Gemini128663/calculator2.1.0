@@ -6,9 +6,9 @@
  # @FilePath: \calculator2.1.0\date_calculation_page.py
 """
 from tkinter import *
-from calculator_date import date_calculation_click
-from calculator_standard_science import standard_science_calc
-from button_names import button_name
+from calculation.calculator_date import date_calculation_click
+from calculation.calculator_standard_science import standard_science_calc
+from pages.button_names import button_name
 
 
 class dateFrame(Frame):
@@ -77,7 +77,7 @@ class dateFrame(Frame):
         Arguments:
             event {['tkinter.Event']} -- [点击事件]
         """
-        
+
         if event.widget["text"] == "=" and self.show["text"] is not None:
             self.show["text"] = date_calculation_click(event, self.show["text"])
 
