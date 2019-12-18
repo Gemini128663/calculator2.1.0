@@ -1,10 +1,11 @@
 """
  # @Author: chang_an
- # @Date: 2019-12-17 10:52:10
+ # @Date: 2019-12-18 18:10:40
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 13:59:14
- # @FilePath: \calculator2.1.0\standard_science_calc.py
+ # @LastEditTime: 2019-12-18 18:38:21
+ # @FilePath: \calculator2.1.0\calculation\calculator_standard_science.py
 """
+
 import math
 
 
