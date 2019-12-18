@@ -1,10 +1,11 @@
-"""
+'''
  # @Author: chang_an
- # @Date: 2019-12-17 10:52:10
+ # @Date: 2019-12-18 18:13:11
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 13:44:16
- # @FilePath: \calculator2.1.0\\button_name.py
-"""
+ # @LastEditTime: 2019-12-18 18:35:06
+ # @FilePath: \calculator2.1.0\calculation\button_names.py
+'''
+
 from tkinter import Button
 
 
