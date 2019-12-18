@@ -13,7 +13,8 @@
 
 
 from tkinter import *
-from pages.calculator_page import *
+
+from pages.calculator_page import CalcPage
 from pages.standard_page import *
 
 root = Tk()
