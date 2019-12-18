@@ -35,7 +35,7 @@
 ## 具体页面
 
 
-![简单计算器的具体页面](images/具体页面.png)
+![简单计算器的具体页面](docs/具体页面.png)
 
 
 ## 使用说明
@@ -59,23 +59,23 @@
 
 ## 文件对应说明
 
-1. calculator/main：主函数，只需运行这个文件就可以。  
+1. main：主函数，只需运行这个文件就可以。  
 
-2. calculator/calculation/calculator_page：用来初始化四个菜单的文件。
+2. calculation/calculator_page：用来初始化四个菜单的文件。
 
-3. calculator/standard_page：标准型页面的具体内容。
+3. calculation/standard_page：标准型页面的具体内容。
 
-4. calculator/science_page：科学型页面的具体内容。
+4. calculation/science_page：科学型页面的具体内容。
 
-5. calculator/programmer_page：程序员页面的具体内容。
+5. calculation/programmer_page：程序员页面的具体内容。
 
-6. calculator/calculator_date_page：日期计算页面的具体内容。
+6. calculation/calculator_date_page：日期计算页面的具体内容。
 
-7. calculator/button_name：用来实现按钮的命名、位置、以及回调函数。
+7. calculation/button_name：用来实现按钮的命名、位置、以及回调函数。
 
-8. calculator/calculator_date：日期计算处理过程。
+8. calculation/calculator_date：日期计算处理过程。
 
-9. calculator/calculator_standard_science：标准型和科学型的计算处理过程。
+9. calculation/calculator_standard_science：标准型和科学型的计算处理过程。
 
 \# 程序员型的计算处理过程是在 programmer_page 中实现的。
 

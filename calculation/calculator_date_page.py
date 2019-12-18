@@ -1,14 +1,15 @@
 """
  # @Author: chang_an
- # @Date: 2019-12-17 10:52:10
+ # @Date: 2019-12-18 18:13:11
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 13:54:55
- # @FilePath: \calculator2.1.0\date_calculation_page.py
+ # @LastEditTime: 2019-12-18 18:17:38
+ # @FilePath: \calculator2.1.0\calculation\calculator_date_page.py
 """
+
 from tkinter import *
 from calculation.calculator_date import date_calculation_click
 from calculation.calculator_standard_science import standard_science_calc
-from pages.button_names import button_name
+from calculation.button_names import button_name
 
 
 class dateFrame(Frame):

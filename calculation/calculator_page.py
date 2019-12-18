@@ -1,16 +1,16 @@
 """
  # @Author: chang_an
- # @Date: 2019-12-17 10:52:10
+ # @Date: 2019-12-18 18:13:11
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 14:51:05
- # @FilePath: \calculator2.1.0\calculator_page.py
+ # @LastEditTime: 2019-12-18 18:16:18
+ # @FilePath: \calculator2.1.0\calculation\calculator_page.py
 """
 
 
-from pages.standard_page import *
-from pages.science_page import *
-from pages.programmer_page import *
-from pages.calculator_date_page import *
+from calculation.standard_page import *
+from calculation.science_page import *
+from calculation.programmer_page import *
+from calculation.calculator_date_page import *
 
 
 class CalcPage(object):

@@ -1,12 +1,13 @@
 """
  # @Author: chang_an
- # @Date: 2019-12-17 10:52:10
+ # @Date: 2019-12-18 18:13:11
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 13:45:36
- # @FilePath: \calculator2.1.0\programmer_page.py
+ # @LastEditTime: 2019-12-18 18:17:26
+ # @FilePath: \calculator2.1.0\calculation\programmer_page.py
 """
+
 from tkinter import *
-from pages.button_names import button_name
+from calculation.button_names import button_name
 
 
 class Programmer(Frame):
@@ -14,7 +15,8 @@ class Programmer(Frame):
     
     Arguments:
         Frame {[class]} -- [tkinter子类]
-    """      
+    """
+
     def __init__(self, master=None):
         """[初始化页面]
  
@@ -26,7 +28,7 @@ class Programmer(Frame):
     def progarmmerpage(self):
         """[设定程序员页面具体细节]
         
-        """        
+        """
         self.show = Label(
             self,
             relief=SUNKEN,
