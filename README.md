@@ -7,11 +7,11 @@
  * @FilePath: \calculator2.1.0\one-1\README.md
  -->
 
-# 简单计算器
+# 使用Python实现简单计算器
 
-## python版本
+## Python版本
 
-+ python 3.7.4
++ Python 3.7.4
 
 ## 依赖库
 
@@ -32,7 +32,7 @@
 
 4. 日期计算：日期相加减计算天数。
    
-## 具体页面
+## 计算器具体页面
 
 
 ![简单计算器的具体页面](docs/具体页面.png)
