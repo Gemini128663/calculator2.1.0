@@ -1,4 +1,11 @@
 """
+ # @Author: chang_an
+ # @Date: 2019-12-18 18:10:40
+ # @LastEditors: chang_an
+ # @LastEditTime: 2019-12-20 19:11:51
+ # @FilePath: \calculator2.1.0\calculation\calculator.py
+"""
+"""
 @Author: chang_an
 @Date: 2019-12-11 18:28:01
 @LastEditTime: 2019-12-16 13:56:40
@@ -15,10 +22,16 @@
 from tkinter import *
 
 from packages.calculator_page import CalcPage
+
 # from packages.standard_page import *
 
-root = Tk()
-root.title("简单计算器")
-CalcPage(root)
-root.mainloop()
+
+def calc():
+    root = Tk()
+    root.title("简单计算器")
+    CalcPage(root)
+    root.mainloop()
+
+
+# calc()
 

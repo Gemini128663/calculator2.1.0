@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: calculation
+Version: 2.1.0
+Summary: python实现简单计算器
+Home-page: https://github.com/Gemini128663/calculator2.1.0
+Author: chang_an
+Author-email: 1286631591@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
