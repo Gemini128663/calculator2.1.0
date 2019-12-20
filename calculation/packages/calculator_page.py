@@ -3,14 +3,14 @@
  # @Date: 2019-12-18 18:13:11
  # @LastEditors: chang_an
  # @LastEditTime: 2019-12-18 18:16:18
- # @FilePath: \calculator2.1.0\calculation\calculator_page.py
+ # @FilePath: \calculator2.1.0\packages\calculator_page.py
 """
 
 
-from calculation.standard_page import *
-from calculation.science_page import *
-from calculation.programmer_page import *
-from calculation.calculator_date_page import *
+from packages.standard_page import *
+from packages.science_page import *
+from packages.programmer_page import *
+from packages.calculator_date_page import *
 
 
 class CalcPage(object):

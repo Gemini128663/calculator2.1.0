@@ -7,7 +7,7 @@
 """
 
 from tkinter import *
-from calculation.button_names import button_name
+from packages.button_names import button_name
 
 
 class Programmer(Frame):
