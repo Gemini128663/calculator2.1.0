@@ -1,7 +1,7 @@
 <!--
  * @Author: chang_an
  * @Date: 2019-12-16 19:14:57
- * @LastEditTime : 2019-12-20 15:54:40
+ * @LastEditTime : 2019-12-21 11:16:01
  * @LastEditors  : chang_an
  * @Description: 
  * @FilePath: \calculator2.1.0\one-1\README.md
@@ -15,9 +15,9 @@
 
 ## 依赖库
 
-- [x] tkinter
-- [x] time、datetime
-- [x] math
++ [x] tkinter
++ [x] time、datetime
++ [x] math
 
 ## 项目背景
 
@@ -31,12 +31,10 @@
 3. 程序员型：进制转换。
 
 4. 日期计算：日期相加减计算天数。
-   
+
 ## 计算器具体页面
 
-
 ![简单计算器的具体页面](docs/具体页面.png)
-
 
 ## 使用说明
 
@@ -56,31 +54,42 @@
 
     \#  日期相减的范围是3019.1.19~1970.1.1
 
-
 ## 文件对应说明
 
-1. main：主函数，只需运行这个文件就可以。  
+1. calculation\calculator：主函数，只需运行这个文件就可以。  
 
-2. calculation/calculator_page：用来初始化四个菜单的文件。
+2. packages\calculator_page：用来初始化四个菜单的文件。
 
-3. calculation/standard_page：标准型页面的具体内容。
+3. packages\standard_page：标准型页面的具体内容。
 
-4. calculation/science_page：科学型页面的具体内容。
+4. packages\science_page：科学型页面的具体内容。
 
-5. calculation/programmer_page：程序员页面的具体内容。
+5. packages\programmer_page：程序员页面的具体内容。
 
-6. calculation/calculator_date_page：日期计算页面的具体内容。
+6. packages\calculator_date_page：日期计算页面的具体内容。
 
-7. calculation/button_name：用来实现按钮的命名、位置、以及回调函数。
+7. packages\button_name：用来实现按钮的命名、位置、以及回调函数。
 
-8. calculation/calculator_date：日期计算处理过程。
+8. packages\calculator_date：日期计算处理过程。
 
-9. calculation/calculator_standard_science：标准型和科学型的计算处理过程。
+9. packages\calculator_standard_science：标准型和科学型的计算处理过程。
 
 \# 程序员型的计算处理过程是在 programmer_page 中实现的。
 
-## download:
+## download
 
-&#8195;&#8195;&#8195;&#8195;[download-zip](https://github.com/Gemini128663/calculator2.1.0
-)
+1. &#8195;&#8195;[download-zip](https://github.com/Gemini128663/calculator2.1.0)  
 
+   ![下载](docs/download.png)
+
+2. &#8195;&#8195;```pythonpip install calculator8```
+
+## 计算器程序实例说明
+
+```python
+
+from calculator8 import calculator
+calculator.calc()
+```
+
+即可计算器实例化

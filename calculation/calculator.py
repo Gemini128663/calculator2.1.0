@@ -9,8 +9,6 @@ from tkinter import *
 
 from packages.calculator_page import CalcPage
 
-# from packages.standard_page import *
-
 
 def calc():
     root = Tk()
