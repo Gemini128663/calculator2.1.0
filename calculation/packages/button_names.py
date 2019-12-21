@@ -1,9 +1,9 @@
 """
  # @Author: chang_an
- # @Date: 2019-12-18 18:13:11
+ # @Date: 2019-12-21 09:25:37
  # @LastEditors: chang_an
- # @LastEditTime: 2019-12-18 18:35:06
- # @FilePath: \calculator2.1.0\calculation\button_names.py
+ # @LastEditTime: 2019-12-21 09:28:01
+ # @FilePath: \calculator2.1.0\calculation\packages\button_names.py
 """
 
 from tkinter import Button
