@@ -6,11 +6,11 @@
  # @FilePath: \calculator2.1.0\calculation\packages\calculator_page.py
 """
 
-
-from packages.standard_page import *
-from packages.science_page import *
-from packages.programmer_page import *
-from packages.calculator_date_page import *
+from tkinter import *
+from packages.standard_page import StandardFrame
+from packages.science_page import ScienceFrame
+from packages.programmer_page import Programmer
+from packages.calculator_date_page import dateFrame
 
 
 class CalcPage(object):
