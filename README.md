@@ -1,7 +1,7 @@
 <!--
  * @Author: chang_an
  * @Date: 2019-12-16 19:14:57
- * @LastEditTime : 2019-12-21 11:16:01
+ * @LastEditTime : 2019-12-21 11:19:45
  * @LastEditors  : chang_an
  * @Description: 
  * @FilePath: \calculator2.1.0\one-1\README.md
@@ -82,7 +82,9 @@
 
    ![下载](docs/download.png)
 
-2. &#8195;&#8195;```pythonpip install calculator8```
+ ```python
+2.   pip install calculator8
+ ```
 
 ## 计算器程序实例说明
 
