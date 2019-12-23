@@ -6,7 +6,9 @@
  * @Description: 
  * @FilePath: \calculator2.1.0\one-1\README.md
  -->
-
+![](https://img.shields.io/badge/version-2.1.0-orange)
+![](https://img.shields.io/badge/install-calculator-red)
+![](https://img.shields.io/badge/LICENSE-MIT-green)
 # 使用Python实现简单计算器
 
 ## Python版本
