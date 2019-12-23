@@ -9,7 +9,8 @@
 [![](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
 )
 ![](https://img.shields.io/badge/install-calculator-red)
-[![](https://img.shields.io/badge/LICENSE-MIT-green)]()
+[![](https://img.shields.io/badge/LICENSE-MIT-green)](https://github.com/Gemini128663/calculator2.1.0/blob/master/LICENSE
+)
 # 使用Python实现简单计算器
 
 ## Python版本
