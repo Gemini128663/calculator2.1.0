@@ -6,7 +6,7 @@
  * @Description: 
  * @FilePath: \calculator2.1.0\one-1\README.md
  -->
-[![vwesion](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
+[![version](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
 )
 [![install](https://img.shields.io/badge/install-calculator-red)](https://pypi.org/manage/project/calculator8/release/2.0.0/
 )
