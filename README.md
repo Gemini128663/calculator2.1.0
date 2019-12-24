@@ -1,17 +1,18 @@
 <!--
  * @Author: chang_an
  * @Date: 2019-12-16 19:14:57
- * @LastEditTime : 2019-12-21 11:19:45
+ * @LastEditTime : 2019-12-24 08:10:27
  * @LastEditors  : chang_an
  * @Description: 
  * @FilePath: \calculator2.1.0\one-1\README.md
  -->
-[![](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
+[![vwesion](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
 )
-[![](https://img.shields.io/badge/install-calculator-red)](https://pypi.org/manage/project/calculator8/release/2.0.0/
+[![install](https://img.shields.io/badge/install-calculator-red)](https://pypi.org/manage/project/calculator8/release/2.0.0/
 )
 [![](https://img.shields.io/badge/LICENSE-MIT-green)](https://github.com/Gemini128663/calculator2.1.0/blob/master/LICENSE
 )
+
 # 使用Python实现简单计算器
 
 ## Python版本
