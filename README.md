@@ -1,11 +1,3 @@
-<!--
- * @Author: chang_an
- * @Date: 2019-12-16 19:14:57
- * @LastEditTime : 2019-12-24 08:10:27
- * @LastEditors  : chang_an
- * @Description: 
- * @FilePath: \calculator2.1.0\one-1\README.md
- -->
 [![version](https://img.shields.io/badge/version-2.1.0-orange)](https://github.com/Gemini128663/calculator2.1.0/blob/master/ChangeLog.txt
 )
 [![install](https://img.shields.io/badge/install-calculator-red)](https://pypi.org/manage/project/calculator8/release/2.0.0/
@@ -14,7 +6,20 @@
 )
 
 # 使用Python实现简单计算器
+<!-- TOC -->
 
+- [使用Python实现简单计算器](#使用python实现简单计算器)
+  - [Python版本](#python版本)
+  - [依赖库](#依赖库)
+  - [项目背景](#项目背景)
+  - [已有功能](#已有功能)
+  - [计算器具体页面](#计算器具体页面)
+  - [使用说明](#使用说明)
+  - [文件对应说明](#文件对应说明)
+  - [download](#download)
+  - [计算器程序实例说明](#计算器程序实例说明)
+
+<!-- /TOC -->
 ## Python版本
 
 + Python 3.7.4
